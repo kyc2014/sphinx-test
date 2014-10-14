@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:20
+-keep class edu.cmu.pocketsphinx.demo.PocketSphinxActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:30
+-keep class edu.cmu.pocketsphinx.demo.RecognitionService { <init>(...); }
+

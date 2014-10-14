@@ -1,0 +1,10 @@
+#JSGF V1.0;
+
+grammar names;
+
+<names> = prostitute    |
+          pimp	|
+	RAJNIKANTH;
+
+
+public <names> = <name>+;

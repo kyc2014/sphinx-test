@@ -1,0 +1,14 @@
+models/dict/cmu07a.dic
+models/dict/names.dic
+models/grammar/menu.gram
+models/grammar/names.gram
+models/hmm/hub4wsj_sc_8k/feat.params
+models/hmm/hub4wsj_sc_8k/mdef
+models/hmm/hub4wsj_sc_8k/mdef.txt
+models/hmm/hub4wsj_sc_8k/means
+models/hmm/hub4wsj_sc_8k/mixture_weights
+models/hmm/hub4wsj_sc_8k/noisedict
+models/hmm/hub4wsj_sc_8k/sendump
+models/hmm/hub4wsj_sc_8k/transition_matrices
+models/hmm/hub4wsj_sc_8k/variances
+models/lm/weather.dmp

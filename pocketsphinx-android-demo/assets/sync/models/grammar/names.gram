@@ -1,0 +1,8 @@
+#JSGF V1.0;
+
+grammar names;
+
+<names> = RAJNIKANTH ;
+
+
+public <names> = <name>+;
